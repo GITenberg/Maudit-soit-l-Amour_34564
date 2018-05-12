@@ -1,0 +1,31 @@
+_repo: Maudit-soit-l-Amour_34564
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lecomte du Noüy, Hermine Oudinot
+    aliases:
+    - Lecomte du Nouy, Hermine Oudinot
+    - Noüy, Hermine Oudinot Lecomte du
+    - Noüy, Hermine Oudinot Lecomte Du
+    birthdate: 1854
+    deathdate: 1915
+    gutenberg_agent_id: '32271'
+    url: http://www.gutenberg.org/2009/agents/32271
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2010-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34564'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction'
+- !lcc 'PQ'
+title: Maudit soit l'Amour!
+url: http://www.gutenberg.org/ebooks/34564
